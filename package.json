@@ -1,0 +1,33 @@
+{
+  "name": "@gentsagency/stylelint-config",
+  "version": "1.0.0",
+  "description": "Stylelint config for Gents agency",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gentsagency/stylelint-config.git"
+  },
+  "keywords": [
+    "stylelint",
+    "stylelint-config",
+    "stylelintconfig"
+  ],
+  "author": "Pieter Beulque <pieterbeulque@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gentsagency/stylelint-config/issues"
+  },
+  "homepage": "https://github.com/gentsagency/stylelint-config#readme",
+  "dependencies": {
+    "stylelint-config-standard": "^18.2.0"
+  },
+  "devDependencies": {
+    "stylelint": "^9.0.0"
+  },
+  "peerDependencies": {
+    "stylelint": "^9.0.0"
+  }
+}

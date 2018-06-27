@@ -25,9 +25,9 @@
     "stylelint-config-standard": "^18.2.0"
   },
   "devDependencies": {
-    "stylelint": "^9.0.0"
+    "stylelint": "^9.3.0"
   },
   "peerDependencies": {
-    "stylelint": "^9.0.0"
+    "stylelint": "^9.3.0"
   }
 }
